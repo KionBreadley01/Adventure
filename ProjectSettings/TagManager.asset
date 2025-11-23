@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Tirgger
   - Trigger
+  - PickUp
+  - Ground
+  - 'Ground '
   layers:
   - Default
   - TransparentFX
